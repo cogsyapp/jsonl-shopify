@@ -1,4 +1,4 @@
-name: jsonl-shopify
+name: cogsy/jsonl-shopify
 
 on:
   push:
