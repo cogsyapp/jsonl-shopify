@@ -1,0 +1,15 @@
+{
+  "extends": "airbnb",
+  "rules": {
+    "import/extensions": [2, "always"],
+    "import/no-named-as-default-member": "off",
+    "import/prefer-default-export": "off",
+    "no-restricted-syntax": "off",
+    "no-shadow": "off",
+    "no-underscore-dangle": "off",
+    "prefer-arrow-callback": ["error"]
+  },
+  "parserOptions": {
+    "ecmaVersion": 2020
+  }
+}
